@@ -1,0 +1,14 @@
+POST https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/keyPhrases HTTP/1.1
+Content-Type: application/json
+Host: westus.api.cognitive.microsoft.com
+Ocp-Apim-Subscription-Key: 9d6951dcdbf540d0963fcf927ecd091c
+
+{
+  "documents": [
+    {
+      "language": "en",
+      "id": "1",
+      "text": "Good morning misses Jones. What are your complaints?"
+    }
+  ]
+}

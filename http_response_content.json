@@ -1,0 +1,21 @@
+Transfer-Encoding: chunked
+x-ms-transaction-count: 1
+x-aml-ta-request-id: e5184fb3-a9fd-4e59-8960-a764e470307e
+X-Content-Type-Options: nosniff
+apim-request-id: 91cd5e0d-7374-4f2a-add8-528673195a43
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Date: Sat, 24 Jun 2017 16:35:08 GMT
+Content-Type: application/json; charset=utf-8
+
+{
+  "documents": [
+    {
+      "keyPhrases": [
+        "morning misses Jones",
+        "complaints"
+      ],
+      "id": "1"
+    }
+  ],
+  "errors": []
+}
